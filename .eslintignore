@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.prettierrc.cjs
+.eslintrc.cjs
+postcss.config.cjs
+tailwind.config.cjs
+env.d.ts
