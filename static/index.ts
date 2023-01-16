@@ -3,7 +3,7 @@ export { default as Logo } from './Logo.png';
 export { default as Sparkles } from './Sparkles.png';
 export { default as Circles } from './Circles.png';
 export { default as HomepageText } from './HomePageText.png';
-export { default as HomepageGraphic } from './HomepageGraphic.png';
+export { default as HomepageGraphic } from './HomePageGraphic.png';
 export { default as EvolveText } from './EvolveText.png';
 export { default as SponsorForbes } from './SponsorForbes.png';
 export { default as SponsorFortune } from './SponsorFortune.png';
