@@ -54,6 +54,7 @@ export const Benefits = ({ setSelectedLink }: Props) => {
           </p>
         </div>
         <motion.div
+          variants={container}
           initial="hidden"
           whileInView="visible"
           viewport={{
