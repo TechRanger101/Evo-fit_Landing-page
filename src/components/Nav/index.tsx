@@ -20,7 +20,7 @@ export const Nav = ({ selectedLink, setSelectedLink, isTopOfPage }: Props) => {
     <nav>
       <div className={`${navBarBg} ${flexBetween} ease fixed top-0 z-30 w-full py-6 transition-all duration-200`}>
         <div className={`${flexBetween} mx-auto w-5/6`}>
-          <div className={`${flexBetween} w-full gap-16 font-bold`}>
+          <div className={`${flexBetween} w-full gap-16`}>
             <img src={Logo} alt="EgoGym" />
             {isDesktop ? (
               <div className={`${flexBetween} w-full`}>
@@ -31,7 +31,7 @@ export const Nav = ({ selectedLink, setSelectedLink, isTopOfPage }: Props) => {
                   <Links link="Contact Us" selectedLink={selectedLink} setSelectedLink={setSelectedLink} />
                 </div>
                 <div className={`${flexBetween} gap-8`}>
-                  <p>Sign in</p>
+                  <button className="ease transition-all duration-200 hover:text-primary-500">Sign in</button>
                   <ActionButton setSelectedLink={setSelectedLink}>Become a Member</ActionButton>
                 </div>
               </div>
