@@ -5,7 +5,7 @@
 
 ## What's this? 🤔
 
-A prototype landing page for a prototype bussiness called EvoGym. It's fully responsive dynamic and very lightweight 🍃.
+A prototype landing page for a prototype bussiness called EvoGym. It's fully responsive, dynamic and very lightweight 🍃.
 
 ### Tools used 🧰
 
