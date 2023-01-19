@@ -17,17 +17,17 @@ module.exports = {
       },
       backgroundImage: (theme) => ({
         'gradient-yellowred': 'linear-gradient(90deg, #FF616A 0%, #FFC837 100%)',
-        'mobile-home': "url('./assets/HomePageGraphic.png')",
+        'mobile-home': "url('./static/HomePageGraphic.png')",
       }),
       fontFamily: {
         dmsans: ['DM Sans', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],
       },
       content: {
-        evolvetext: "url('./assets/EvolveText.png')",
-        abstractwaves: "url('./assets/AbstractWaves.png')",
-        sparkles: "url('./assets/Sparkles.png')",
-        circles: "url('./assets/Circles.png')",
+        evolvetext: "url('./static/EvolveText.png')",
+        abstractwaves: "url('./static/AbstractWaves.png')",
+        sparkles: "url('./static/Sparkles.png')",
+        circles: "url('./static/Circles.png')",
       },
     },
     screens: {
