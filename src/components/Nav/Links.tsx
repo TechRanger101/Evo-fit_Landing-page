@@ -14,7 +14,7 @@ export default function Links({ link, selectedLink, setSelectedLink }: Props) {
     <AnchorLink
       className={`${
         selectedLink === formattedLink && 'text-primary-500'
-      } transition duration-500 hover:text-primary-300`}
+      } text-base transition duration-500 hover:text-primary-300`}
       href={`#${formattedLink}`}
       onClick={() => setSelectedLink(formattedLink)}
     >
