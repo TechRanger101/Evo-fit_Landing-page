@@ -10,7 +10,7 @@ type Props = {
 export const ActionButton = ({ children, setSelectedLink }: Props) => {
   return (
     <AnchorLink
-      className="rounded-md bg-neutral-500 px-10 py-2 hover:bg-primary-500 hover:text-white"
+      className="ease rounded-md bg-neutral-500 px-10 py-2 transition-all duration-200 hover:bg-primary-500 hover:text-white"
       onClick={() => setSelectedLink(SelectedLink.ContactUs)}
       href={`${SelectedLink.ContactUs}`}
     >
