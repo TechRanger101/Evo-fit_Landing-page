@@ -18,7 +18,7 @@ export const Nav = ({ selectedLink, setSelectedLink, isTopOfPage }: Props) => {
   const navBarBg = !isTopOfPage && 'bg-primary-100 drop-shadow';
   return (
     <nav>
-      <div className={`${navBarBg} ${flexBetween} fixed top-0 z-30 w-full py-6`}>
+      <div className={`${navBarBg} ${flexBetween} ease fixed top-0 z-30 w-full py-6 transition-all duration-200`}>
         <div className={`${flexBetween} mx-auto w-5/6`}>
           <div className={`${flexBetween} w-full gap-16 font-bold`}>
             <img src={Logo} alt="EgoGym" />
