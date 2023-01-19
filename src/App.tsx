@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Nav, Home, Benefits } from '@/components';
+import { Nav, Home, Benefits, OurClasses, ContactUs } from '@/components';
 import { SelectedLink } from '@/utils/types';
 export const App = () => {
   const [selectedLink, setSelectedLink] = useState<SelectedLink>(SelectedLink.Home);
@@ -18,6 +18,8 @@ export const App = () => {
       <main>
         <Home setSelectedLink={setSelectedLink} />
         <Benefits setSelectedLink={setSelectedLink} />
+        <OurClasses setSelectedLink={setSelectedLink} />
+        <ContactUs setSelectedLink={setSelectedLink} />
       </main>
     </div>
   );
