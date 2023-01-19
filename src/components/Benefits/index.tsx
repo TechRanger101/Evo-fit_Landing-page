@@ -33,6 +33,15 @@ type Props = {
   setSelectedLink: (value: SelectedLink) => void;
 };
 
+const container = {
+  hidden: {},
+  visible: {
+    transition: {
+      staggerChildren: 0.2,
+    },
+  },
+};
+
 export const Benefits = ({ setSelectedLink }: Props) => {
   return (
     <section id="benefits" className="mx-auto min-h-full w-5/6 py-20 ">
@@ -44,7 +53,15 @@ export const Benefits = ({ setSelectedLink }: Props) => {
             with ease. We provide true care into each and every member.
           </p>
         </div>
-        <div className="mt-5 items-center justify-between gap-8 md:flex">
+        <motion.div
+          initial="hidden"
+          whileInView="visible"
+          viewport={{
+            once: true,
+            amount: 0.5,
+          }}
+          className="mt-5 items-center justify-between gap-8 md:flex"
+        >
           {benefits.map((benefit) => (
             <Benefit
               key={benefit.id}
@@ -54,7 +71,7 @@ export const Benefits = ({ setSelectedLink }: Props) => {
               setSelectedLink={setSelectedLink}
             />
           ))}
-        </div>
+        </motion.div>
       </motion.div>
     </section>
   );
