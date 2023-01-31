@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vitejs/plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:3.0.1"],\
             ["autoprefixer", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:10.4.13"],\
             ["eslint", "npm:8.33.0"],\
-            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.1"],\
+            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2"],\
             ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.3"],\
@@ -2113,17 +2113,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint-plugin-react", [\
-        ["npm:7.32.1", {\
-          "packageLocation": "./.yarn/cache/eslint-plugin-react-npm-7.32.1-3bdecf0e81-e20eab6116.zip/node_modules/eslint-plugin-react/",\
+        ["npm:7.32.2", {\
+          "packageLocation": "./.yarn/cache/eslint-plugin-react-npm-7.32.2-b8b92d1b99-2232b3b894.zip/node_modules/eslint-plugin-react/",\
           "packageDependencies": [\
-            ["eslint-plugin-react", "npm:7.32.1"]\
+            ["eslint-plugin-react", "npm:7.32.2"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.1", {\
-          "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-virtual-2f9e002007/0/cache/eslint-plugin-react-npm-7.32.1-3bdecf0e81-e20eab6116.zip/node_modules/eslint-plugin-react/",\
+        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2", {\
+          "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-virtual-7ddb2eb10f/0/cache/eslint-plugin-react-npm-7.32.2-b8b92d1b99-2232b3b894.zip/node_modules/eslint-plugin-react/",\
           "packageDependencies": [\
-            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.1"],\
+            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2"],\
             ["@types/eslint", null],\
             ["array-includes", "npm:3.1.6"],\
             ["array.prototype.flatmap", "npm:1.3.1"],\
@@ -2280,7 +2280,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vitejs/plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:3.0.1"],\
             ["autoprefixer", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:10.4.13"],\
             ["eslint", "npm:8.33.0"],\
-            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.1"],\
+            ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2"],\
             ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.3"],\
