@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:10.4.13"],\
             ["eslint", "npm:8.33.0"],\
             ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2"],\
-            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2"],\
+            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.5"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.3"],\
             ["prettier-plugin-tailwindcss", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:0.2.2"],\
@@ -2281,7 +2281,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:10.4.13"],\
             ["eslint", "npm:8.33.0"],\
             ["eslint-plugin-react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.32.2"],\
-            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2"],\
+            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.5"],\
             ["postcss", "npm:8.4.21"],\
             ["prettier", "npm:2.8.3"],\
             ["prettier-plugin-tailwindcss", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:0.2.2"],\
@@ -2418,17 +2418,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["framer-motion", [\
-        ["npm:8.5.2", {\
-          "packageLocation": "./.yarn/cache/framer-motion-npm-8.5.2-b03b40f015-d58eabc825.zip/node_modules/framer-motion/",\
+        ["npm:8.5.5", {\
+          "packageLocation": "./.yarn/cache/framer-motion-npm-8.5.5-c49087a87c-25912b88ea.zip/node_modules/framer-motion/",\
           "packageDependencies": [\
-            ["framer-motion", "npm:8.5.2"]\
+            ["framer-motion", "npm:8.5.5"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2", {\
-          "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-9b22e78a15/0/cache/framer-motion-npm-8.5.2-b03b40f015-d58eabc825.zip/node_modules/framer-motion/",\
+        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.5", {\
+          "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-b0eb1dba84/0/cache/framer-motion-npm-8.5.5-c49087a87c-25912b88ea.zip/node_modules/framer-motion/",\
           "packageDependencies": [\
-            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.2"],\
+            ["framer-motion", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:8.5.5"],\
             ["@emotion/is-prop-valid", "npm:0.8.8"],\
             ["@motionone/dom", "npm:10.15.5"],\
             ["@types/react", "npm:18.0.27"],\
