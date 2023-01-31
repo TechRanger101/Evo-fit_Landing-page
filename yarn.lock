@@ -464,12 +464,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@heroicons/react@npm:^2.0.13":
-  version: 2.0.13
-  resolution: "@heroicons/react@npm:2.0.13"
+"@heroicons/react@npm:^2.0.14":
+  version: 2.0.14
+  resolution: "@heroicons/react@npm:2.0.14"
   peerDependencies:
     react: ">= 16"
-  checksum: f03c393a129cb468d103e4334815df956d7afa9d0756ee09b33e9396214d39b786523a5e650709de73c68ba085facda3fe01984ff137bcc16c85d4ed2498e663
+  checksum: d1623865c04e2bedc1ae370ca0a305bb0c775c7db171e29d03afc3032598105b7e8c9290e7d6b34a5f334e2a2c92e8e2aac1c5e89d1ea1fb7073cce6e03a7f16
   languageName: node
   linkType: hard
 
@@ -1849,7 +1849,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "evo-fit-landing-page@workspace:."
   dependencies:
-    "@heroicons/react": ^2.0.13
+    "@heroicons/react": ^2.0.14
     "@types/node": ^18.11.18
     "@types/react": ^18.0.27
     "@types/react-anchor-link-smooth-scroll": 1.0.2
