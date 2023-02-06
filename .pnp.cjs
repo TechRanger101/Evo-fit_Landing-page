@@ -51,7 +51,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-anchor-link-smooth-scroll", "npm:1.0.12"],\
             ["react-dom", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:18.2.0"],\
-            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.42.1"],\
+            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.43.0"],\
             ["tailwindcss", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:3.2.4"],\
             ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=a1c5e5"],\
             ["vite", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:4.0.4"]\
@@ -2288,7 +2288,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-anchor-link-smooth-scroll", "npm:1.0.12"],\
             ["react-dom", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:18.2.0"],\
-            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.42.1"],\
+            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.43.0"],\
             ["tailwindcss", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:3.2.4"],\
             ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=a1c5e5"],\
             ["vite", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:4.0.4"]\
@@ -4141,17 +4141,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["react-hook-form", [\
-        ["npm:7.42.1", {\
-          "packageLocation": "./.yarn/cache/react-hook-form-npm-7.42.1-4e859d521c-f0dcf5d7f6.zip/node_modules/react-hook-form/",\
+        ["npm:7.43.0", {\
+          "packageLocation": "./.yarn/cache/react-hook-form-npm-7.43.0-dba9519b33-f86ef57b4e.zip/node_modules/react-hook-form/",\
           "packageDependencies": [\
-            ["react-hook-form", "npm:7.42.1"]\
+            ["react-hook-form", "npm:7.43.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.42.1", {\
-          "packageLocation": "./.yarn/__virtual__/react-hook-form-virtual-c18246fb02/0/cache/react-hook-form-npm-7.42.1-4e859d521c-f0dcf5d7f6.zip/node_modules/react-hook-form/",\
+        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.43.0", {\
+          "packageLocation": "./.yarn/__virtual__/react-hook-form-virtual-2e9a6efcc7/0/cache/react-hook-form-npm-7.43.0-dba9519b33-f86ef57b4e.zip/node_modules/react-hook-form/",\
           "packageDependencies": [\
-            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.42.1"],\
+            ["react-hook-form", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:7.43.0"],\
             ["@types/react", "npm:18.0.27"],\
             ["react", "npm:18.2.0"]\
           ],\
