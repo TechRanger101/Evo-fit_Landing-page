@@ -34,7 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.14"],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.11.19"],\
             ["@types/react", "npm:18.0.27"],\
             ["@types/react-anchor-link-smooth-scroll", "npm:1.0.2"],\
             ["@types/react-dom", "npm:18.0.10"],\
@@ -887,10 +887,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:18.11.18", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.11.18-d61e8a4a20-03f17f9480.zip/node_modules/@types/node/",\
+        ["npm:18.11.19", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.11.19-dd4a5b3ed6-d7cd19fcfc.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.11.18"]\
+            ["@types/node", "npm:18.11.19"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2324,7 +2324,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["evo-fit-landing-page", "workspace:."],\
             ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.14"],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.11.19"],\
             ["@types/react", "npm:18.0.27"],\
             ["@types/react-anchor-link-smooth-scroll", "npm:1.0.2"],\
             ["@types/react-dom", "npm:18.0.10"],\
@@ -4909,7 +4909,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["vite", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:4.0.4"],\
             ["@types/less", null],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.11.19"],\
             ["@types/sass", null],\
             ["@types/stylus", null],\
             ["@types/sugarss", null],\
