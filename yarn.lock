@@ -1906,7 +1906,7 @@ __metadata:
     autoprefixer: ^10.4.13
     eslint: latest
     eslint-plugin-react: latest
-    framer-motion: ^9.0.1
+    framer-motion: ^9.0.2
     postcss: ^8.4.21
     prettier: ^2.8.3
     prettier-plugin-tailwindcss: ^0.2.2
@@ -2024,9 +2024,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^9.0.1":
-  version: 9.0.1
-  resolution: "framer-motion@npm:9.0.1"
+"framer-motion@npm:^9.0.2":
+  version: 9.0.2
+  resolution: "framer-motion@npm:9.0.2"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     "@motionone/dom": ^10.15.3
@@ -2038,7 +2038,7 @@ __metadata:
   dependenciesMeta:
     "@emotion/is-prop-valid":
       optional: true
-  checksum: e4e47bad607ad9882c515223dab2357203812039bb47f2787a29b9e951299cb6b94d18a46989bb6fc6a5a31a417a58c3cf210e2e6867d2ab85190550767465de
+  checksum: 5694d3a49acb9f753f0eed4a946c2b33efc237e0863b882cc4bed9a6022447ce2c9024134b5e9fd7b6f73602d9af046fa633c0f7235e8cbb24702b403299b55e
   languageName: node
   linkType: hard
 
