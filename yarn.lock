@@ -1624,7 +1624,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"esbuild@npm:^0.16.3":
+"esbuild@npm:^0.16.14":
   version: 0.16.17
   resolution: "esbuild@npm:0.16.17"
   dependencies:
@@ -1916,7 +1916,7 @@ __metadata:
     react-hook-form: ^7.43.0
     tailwindcss: ^3.2.4
     typescript: ^4.9.3
-    vite: ^4.0.0
+    vite: ^4.1.1
   languageName: unknown
   linkType: soft
 
@@ -3314,7 +3314,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.18, postcss@npm:^8.4.20, postcss@npm:^8.4.21":
+"postcss@npm:^8.4.18, postcss@npm:^8.4.21":
   version: 8.4.21
   resolution: "postcss@npm:8.4.21"
   dependencies:
@@ -3624,9 +3624,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:^3.7.0":
-  version: 3.10.0
-  resolution: "rollup@npm:3.10.0"
+"rollup@npm:^3.10.0":
+  version: 3.15.0
+  resolution: "rollup@npm:3.15.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -3634,7 +3634,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 31a882689c58d084ac36362aeaf2422dc4b80d671bd88c856693c37d63a26ddac9b9819dfba7f79c2d50d5207868b0e3d75f728fe551bbc347cf5dedf8ece18e
+  checksum: 1a75b09503f705b594dcfebf65b9e1ca4536e3facdf5716e10d4272697b4bb7e6bd8ab35be1b3fe1271f864d4c4a75d012bd77cbe7a55579d5138258b9e85c23
   languageName: node
   linkType: hard
 
@@ -4097,15 +4097,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.0.0":
-  version: 4.0.4
-  resolution: "vite@npm:4.0.4"
+"vite@npm:^4.1.1":
+  version: 4.1.1
+  resolution: "vite@npm:4.1.1"
   dependencies:
-    esbuild: ^0.16.3
+    esbuild: ^0.16.14
     fsevents: ~2.3.2
-    postcss: ^8.4.20
+    postcss: ^8.4.21
     resolve: ^1.22.1
-    rollup: ^3.7.0
+    rollup: ^3.10.0
   peerDependencies:
     "@types/node": ">= 14"
     less: "*"
@@ -4131,7 +4131,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: eb86c8cdfe8dcb6644005486b31cb60bc596f2aa683cb194abb5c0afca7c2a5dfdb02bbc7f83f419ad170227ac9c3b898f4406a6d1433105fb61d79d78e47d52
+  checksum: aad14b660b69068f6596ab7e760dd71642862996328e404a4d265e090ae0d06c7064cf8415ffb135cd8b79d5157dc1dcb48b56386caaa96a474fb53bdd8cac3d
   languageName: node
   linkType: hard
 
