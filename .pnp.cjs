@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.15"],\
+            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.16"],\
             ["@types/node", "npm:18.14.6"],\
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-anchor-link-smooth-scroll", "npm:1.0.2"],\
@@ -633,17 +633,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@heroicons/react", [\
-        ["npm:2.0.15", {\
-          "packageLocation": "./.yarn/cache/@heroicons-react-npm-2.0.15-755a1c1eff-11ec68629e.zip/node_modules/@heroicons/react/",\
+        ["npm:2.0.16", {\
+          "packageLocation": "./.yarn/cache/@heroicons-react-npm-2.0.16-ce9dfa3c94-1e51bfec72.zip/node_modules/@heroicons/react/",\
           "packageDependencies": [\
-            ["@heroicons/react", "npm:2.0.15"]\
+            ["@heroicons/react", "npm:2.0.16"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.15", {\
-          "packageLocation": "./.yarn/__virtual__/@heroicons-react-virtual-7770780dfa/0/cache/@heroicons-react-npm-2.0.15-755a1c1eff-11ec68629e.zip/node_modules/@heroicons/react/",\
+        ["virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.16", {\
+          "packageLocation": "./.yarn/__virtual__/@heroicons-react-virtual-f1384a0bd2/0/cache/@heroicons-react-npm-2.0.16-ce9dfa3c94-1e51bfec72.zip/node_modules/@heroicons/react/",\
           "packageDependencies": [\
-            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.15"],\
+            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.16"],\
             ["@types/react", "npm:18.0.28"],\
             ["react", "npm:18.2.0"]\
           ],\
@@ -2323,7 +2323,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["evo-fit-landing-page", "workspace:."],\
-            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.15"],\
+            ["@heroicons/react", "virtual:aaabd567cab7514db281644a79d0c5fcdb73d1ea17908c5fdb7a11f9ec983b10d9275272b6bf73c1c2574bfad94a458bb185cbc74fa72d3acabac750d1a2a1a0#npm:2.0.16"],\
             ["@types/node", "npm:18.14.6"],\
             ["@types/react", "npm:18.0.28"],\
             ["@types/react-anchor-link-smooth-scroll", "npm:1.0.2"],\
